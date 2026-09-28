@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "servor --reload",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
