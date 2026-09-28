@@ -2,7 +2,8 @@
   "type": "module",
   "scripts": {
     "start": "servor --reload",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build": "echo \"Static site, no build step required\""
   },
   "dependencies": {
     "servor": "^4.0.2"
